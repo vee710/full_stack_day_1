@@ -1,0 +1,34 @@
+h1{
+    color: blue;
+    background-color: yellow;
+}
+
+h{
+    color: pink;
+    background-color: lightpink;
+}
+
+#middle {
+    background-color:blueviolet;
+    color: white;
+
+}
+.text {
+    background-color: lightblue;
+}
+
+span{
+    background-color: khaki;
+    width: 250px;
+}
+element.style {
+
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
