@@ -1,0 +1,31 @@
+*{
+    color: hotpink;
+    margin: 8px;
+    padding:4px;
+
+}
+
+h2{
+    color:crimson;
+}
+
+p{
+    color:rgb(8, 175, 8);
+}
+
+div{
+    padding:40px;
+    border: 4px solid brown;
+    background-color:yellow;
+    margin: 20px auto;
+    width:200px;
+color:aquamarine;
+}
+
+.bg-black{
+    background-color:lightgreen;
+}
+
+#title{
+    color:darkred;
+}
