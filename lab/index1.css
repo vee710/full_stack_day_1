@@ -1,0 +1,18 @@
+div{
+    height :550px;
+    width: 400px;
+    background-color: lightblue;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLXupSWB3HPXU6aldTBAe_k4Bh0wKK6dPmzqguhlbDuQ&s=10);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+#lab{
+    background-color: rgba(0, 0, 0, 0.5);
+}
